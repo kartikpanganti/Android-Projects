@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/BODY"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/dice"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="189dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="242dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/d1" />
+
+    <Button
+        android:id="@+id/rollbutton"
+        android:layout_width="208dp"
+        android:layout_height="81dp"
+        android:layout_marginBottom="48dp"
+        android:backgroundTint="#1371FF"
+        android:shadowColor="#BD4040"
+        android:shadowDx="5"
+        android:shadowDy="4"
+        android:shadowRadius="5"
+        android:text="ROLL"
+        android:textColor="#FFFFFF"
+        android:textSize="35sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:shapeAppearance="@style/ShapeAppearance.Material3.Corner.Medium"
+        app:shapeAppearanceOverlay="@style/ShapeAppearanceOverlay.Material3.Button" />
+
+    <TextView
+        android:id="@+id/dicecount"
+        android:layout_width="127dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="36dp"
+        android:shadowColor="#82E829"
+        android:shadowDx="5"
+        android:shadowDy="5"
+        android:shadowRadius="5"
+        android:text="5"
+        android:textAlignment="center"
+        android:textColor="#1101A3"
+        android:textSize="64sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/rollbutton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/HEADLINE"
+        android:layout_width="413dp"
+        android:layout_height="99dp"
+        android:layout_marginStart="1dp"
+        android:background="#35FB3D"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="344dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="28dp"
+            android:shadowColor="#0048FF"
+            android:shadowDx="5"
+            android:shadowDy="5"
+            android:shadowRadius="5"
+            android:text="DICE ROLLER"
+            android:textAlignment="center"
+            android:textColor="#DC2121"
+            android:textSize="44sp"
+            android:textStyle="bold|italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.492"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="76dp"
+            android:text=".@Kartik_Panaganti"
+            android:textColor="#474747"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.944"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
