@@ -9,11 +9,16 @@ so.....
 **_OUTPUTS OF ALL PROJECTS_**
 
 
+
 **_BMI CALCULATOR_----SCREEENSHOT AND SAMPLE VIDEO**
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/BMICalculator
 
 ![Screen_recording_20240722_093236 (1) (1)](https://github.com/user-attachments/assets/273e83d0-47a7-48e6-b18a-b542db0486a6) ......... ![Screenshot_20240722_093302](https://github.com/user-attachments/assets/a19982b9-eb39-4278-a92a-ba11256ae80a)
+
+
+
+
 
 
 **_CALCULATOR_SCREEENSHOT AND SAMPLE VIDEO**
@@ -24,10 +29,17 @@ https://github.com/kartikpanganti/Android-Projects/tree/main/CALCULATOR
 
 
 
+
+
+
 **_DIGIT CONVERTER_---SCREEENSHOT AND SAMPLE VIDEO**
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/DIGITCONVERTER
+
 ![DIGIT CON VIDEO (1)](https://github.com/user-attachments/assets/de210c97-c08d-482e-af07-cdc8f1051330) .......![DIGIT CON 1](https://github.com/user-attachments/assets/e66239e4-2351-4994-8131-49221a5855fc)...![DIGIT CON 2](https://github.com/user-attachments/assets/71db301a-92d5-48b6-87ea-00b952aa8f51)!...[DIGIT CON 3](https://github.com/user-attachments/assets/d7b5e417-d071-48c9-b0e5-eaa364119efe)
+
+
+
 
 
 
@@ -35,9 +47,19 @@ https://github.com/kartikpanganti/Android-Projects/tree/main/DIGITCONVERTER
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/GuessDigit
 
+
+
+
+
+
 **_LOGIN_---SCREEENSHOT AND SAMPLE VIDEO**
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/LOGIN
+
+
+
+
+
 
 
 **_DICE APP_---SCREEENSHOT AND SAMPLE VIDEO**
