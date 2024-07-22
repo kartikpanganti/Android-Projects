@@ -36,7 +36,7 @@ https://github.com/kartikpanganti/Android-Projects/tree/main/CALCULATOR
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/DIGITCONVERTER
 
-![DIGIT CON VIDEO (1)](https://github.com/user-attachments/assets/de210c97-c08d-482e-af07-cdc8f1051330) .......![DIGIT CON 1](https://github.com/user-attachments/assets/e66239e4-2351-4994-8131-49221a5855fc)...![DIGIT CON 2](https://github.com/user-attachments/assets/71db301a-92d5-48b6-87ea-00b952aa8f51) ... ![DIGIT CON 3](https://github.com/user-attachments/assets/d7b5e417-d071-48c9-b0e5-eaa364119efe)
+![DIGIT CON VIDEO (1)](https://github.com/user-attachments/assets/de210c97-c08d-482e-af07-cdc8f1051330) .......![DIGIT CON 1](https://github.com/user-attachments/assets/e66239e4-2351-4994-8131-49221a5855fc)...![DIGIT CON 2](https://github.com/user-attachments/assets/71db301a-92d5-48b6-87ea-00b952aa8f51)
 
 
 
