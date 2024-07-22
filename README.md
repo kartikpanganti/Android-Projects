@@ -20,16 +20,24 @@ https://github.com/kartikpanganti/Android-Projects/tree/main/BMICalculator
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/CALCULATOR
 
+![CALCULATOR (1)](https://github.com/user-attachments/assets/a7d51683-2b9b-42e0-8fb3-bd3ab9ca48e5) ....... ![Screenshot_20240722_095354](https://github.com/user-attachments/assets/50d254cb-6125-4b21-9597-4555c8701c6e)
+
 
 
 **_DIGIT CONVERTER_---SCREEENSHOT AND SAMPLE VIDEO**
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/DIGITCONVERTER
+![DIGIT CON VIDEO (1)](https://github.com/user-attachments/assets/de210c97-c08d-482e-af07-cdc8f1051330) .......![DIGIT CON 1](https://github.com/user-attachments/assets/e66239e4-2351-4994-8131-49221a5855fc)...![DIGIT CON 2](https://github.com/user-attachments/assets/71db301a-92d5-48b6-87ea-00b952aa8f51)!...[DIGIT CON 3](https://github.com/user-attachments/assets/d7b5e417-d071-48c9-b0e5-eaa364119efe)
+
 
 
 **_GUESS-DIGIT CONVERTER_---SCREEENSHOT AND SAMPLE VIDEO**
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/GuessDigit
+
+**_LOGIN_---SCREEENSHOT AND SAMPLE VIDEO**
+--------------------------------
+https://github.com/kartikpanganti/Android-Projects/tree/main/LOGIN
 
 
 **_DICE APP_---SCREEENSHOT AND SAMPLE VIDEO**
