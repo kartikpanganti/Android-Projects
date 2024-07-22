@@ -7,7 +7,8 @@ so.....
 **----------OUTPUTS OF ALL PROJECTS----------**
 
 
-**-___________DICE APP____________-**
+**-----DICE APP-----**
+
 **SCREEENSHOT AND SAMPLE VIDEO**
 --------------------------------
 https://github.com/kartikpanganti/Android-Projects/tree/main/MyDice
