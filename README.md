@@ -7,7 +7,7 @@ so.....
 **----------OUTPUTS OF ALL PROJECTS----------**
 
 
-**-----DICE APP-----**
+**_DICE APP_**
 
 **SCREEENSHOT AND SAMPLE VIDEO**
 --------------------------------
